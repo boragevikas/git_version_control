@@ -2,11 +2,17 @@ this is version 1
 
 1. git is used to trace the changes in the code made by number of devlopers on single project 
 2. commands used during the learning prosses of Git are 
-    1. git status  --- to check the latest change in the files and newly add/deleted files  .
-    2. git log    ---  to check the latest change in the code
-    3. git add .   --- to add all files and codes to the staging .
+    1. git status            --- to check the latest change in the files and newly add/deleted files  .
+    2. git log               ---  to check the latest change in the code
+    3. git add -A            --- to add all files and codes to the staging .
     4. git commit -m "message-for-changing-code"   ----- to save the snapshot of the project at current status 
-    4. git push -u origin master   ---  to push the changes in the github repository
-    5.
+    4. git push -u origin master     ---  to push the changes in the github repository
+    5. git diff Filename     --- to check diff between change files
+    6. git reset filename    --- to unstage the file 
+    7. git branch branch-name --- to add branch 
+    8. git checkout .        --- to go previous commit
+    9. git checkout branch/filename --- to go to that file or branch 
+   10. git branch -d branch-name    --- to delete branch from local system 
+   11. git push origin --delete branch-name --- to delete branch from github repo
 
 
