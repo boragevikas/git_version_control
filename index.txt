@@ -1,4 +1,6 @@
 this is my 1st git repo version 2
 starting to test to check the push request
 
+ceating  branch and merging it to master 
+
 
